@@ -35,6 +35,20 @@ T vect_queue<T>::front() const{
 
 }
 
+template <class T>
+T vect_queue<T>::deque(){
+
+}
+
+template <class T>
+T vect_queue<T>::enque(T val){
+
+}
+
+template <class T>
+T vect_queue<T>::print_vect() const{
+
+}
 
 
 int main()
