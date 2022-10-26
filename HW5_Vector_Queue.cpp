@@ -30,6 +30,11 @@ public:
 	void print_vect() const;
 };
 
+template <class T>
+T vect_queue<T>::front() const{
+
+}
+
 
 
 int main()
